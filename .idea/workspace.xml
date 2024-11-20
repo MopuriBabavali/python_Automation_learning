@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20323b07-8385-4f15-b331-e2d822e982c2" name="Changes" comment="hhh">
-      <change afterPath="$PROJECT_DIR$/Nov24/ex_121124_Operaters/Lab025_Task_Program.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov24/ex_121124_Operaters/Lab026.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov24/ex_121124_Operaters/Lab027_Task3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov24/ex_121124_Operaters/Lab025_Task_Program.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov24/ex_121124_Operaters/Lab025_Task1_Program.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov24/ex_121124_Operaters/Lab026.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov24/ex_121124_Operaters/Lab026_Task2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +78,7 @@
     "Python.Lab024_User_Ternary_operator.executor": "Run",
     "Python.Lab025_Task_Program.executor": "Run",
     "Python.Lab026.executor": "Run",
+    "Python.Lab026_Task2 (1).executor": "Run",
     "Python.Lap010_Dynamically_typed.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -268,7 +270,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732123996301</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="hhh">
+      <option name="closed" value="true" />
+      <created>1732124457411</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1732124457411</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
